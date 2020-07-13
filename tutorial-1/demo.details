@@ -1,0 +1,6 @@
+name: tutorial 1
+description: Some description, please keep it in one line
+authors: Vishal N
+resources: no
+normalize_css: no
+load_type: d
